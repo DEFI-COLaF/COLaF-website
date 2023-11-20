@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© Projet COLaF. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)'
     license:
       enable: true
       allow_derivatives: false

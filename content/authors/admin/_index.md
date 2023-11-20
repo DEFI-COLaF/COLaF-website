@@ -28,7 +28,7 @@ Le programme COLaF (Corpus et Outils pour les Langues de France) a pour objectif
 Pour cela, il vise à créer des jeux de données ouverts et à les utiliser pour développer des modèles et des outils open-source. 
 
 COLaF est porté par [Inria](https://www.inria.fr/fr), en
-particulier les équipes [ALMAnaCH](https://almanach.inria.fr/index-en.html) et MULTISPEECH, dont les compétences
+particulier les équipes [ALMAnaCH](https://almanach.inria.fr/index-en.html) et [MULTISPEECH](https://team.inria.fr/multispeech/), dont les compétences
 portent respectivement sur le texte et sur la parole.
 
 Les trois enjeux majeurs de COLaF sont les suivants :
