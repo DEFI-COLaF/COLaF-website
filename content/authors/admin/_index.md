@@ -38,3 +38,5 @@ français, en fournissant des outils adaptés aux variations sociales et géogra
 spécialité, les langues d'immigration et la langue des signes française.
 3. Protéger et valoriser la richesse linguistique du territoire en développant des outils
 pour les langues régionales et les langues d'outre-mer.
+
+Pour de plus amples informations sur la couverture linguistique et les partenariats: [ici](https://colaf.huma-num.fr/projet)

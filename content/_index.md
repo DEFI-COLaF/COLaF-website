@@ -41,9 +41,12 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-  - block: markdown
+  - block: Contact
     id: contact
     content:
       title: Contact
+      email: juliette.janes@inria.fr
+
+
       
 ---
