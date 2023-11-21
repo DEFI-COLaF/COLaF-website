@@ -9,7 +9,6 @@ sections:
     id: about
     content:
       title: COLaF
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: people
     id: funding
@@ -36,8 +35,8 @@ sections:
     content:
       title: Equipe
       user_groups:
-          - almanach
-          - multispeech
+          - Almanach
+          - Multispeech
     design:
       show_interests: false
       show_role: true
@@ -46,5 +45,5 @@ sections:
     id: contact
     content:
       title: Contact
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      
 ---

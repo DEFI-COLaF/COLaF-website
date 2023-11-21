@@ -21,5 +21,5 @@ bio: Maître de conférence Université de Lorraine
 highlight_name: true
 
 user_groups:
-- multispeech
+- Multispeech
 ---
