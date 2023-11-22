@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Inria
+title: Slim Ouni
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
-role: Organisme de financement
+role: Professeur des Universités - Co-porteur du projet
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,15 +14,12 @@ organizations:
     url: https://www.inria.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Institut nationale de recherche en sciences et en technologies du numérique
+bio: Maître de conférence Université de Lorraine
 
-social:
-  - icon: globe
-    icon_pack: fas
-    link: https://www.inria.fr/fr
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-  - funding
+- Multispeech
 ---

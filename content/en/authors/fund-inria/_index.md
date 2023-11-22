@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Benoît Sagot
+title: Inria
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
-role: Senior Researcher
+role: National Research Organization
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,12 +14,17 @@ organizations:
     url: https://www.inria.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Inria Senior Researcher en Natural Language Processing
+bio: Institut nationale de recherche en sciences et en technologies du numérique
 
-
+social:
+  - icon: globe
+    icon_pack: fas
+    link: https://www.inria.fr/fr
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-- Almanach
+  - funding
+
+weight: 10
 ---

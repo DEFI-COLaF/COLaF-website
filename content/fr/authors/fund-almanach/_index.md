@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Multispeech
+title: Almanach
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Laboratoire associé
+role: Équipe-projet Inria partenaire
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,10 +19,11 @@ bio: Institut nationale de recherche en sciences et en technologies du numériqu
 social:
   - icon: globe
     icon_pack: fas
-    link: https://www.inria.fr/fr/multispeech
+    link: https://www.inria.fr/fr/almanach
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
   - funding
+
 ---

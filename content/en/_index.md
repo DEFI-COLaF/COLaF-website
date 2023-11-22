@@ -13,7 +13,7 @@ sections:
   - block: people
     id: funding
     content:
-      title: Financeurs
+      title: Funding provided by
       user_groups:
           - funding
     design:
@@ -23,7 +23,7 @@ sections:
   - block: people
     id: partners
     content:
-      title: Partenaires
+      title: External Partners
       user_groups:
           - partners
     design:
@@ -33,7 +33,7 @@ sections:
   - block: people
     id: team
     content:
-      title: Equipe
+      title: The Team
       user_groups:
           - Almanach
           - Multispeech
@@ -45,7 +45,7 @@ sections:
     id: contact
     content:
       title: Contact
-      email: juliette.janes@inria.fr
+      email: colaf@inria.fr
 
 
       
