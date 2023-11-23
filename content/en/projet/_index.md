@@ -27,5 +27,5 @@ The goal of the COLaF project is twofold:
 ## Linguistic Coverage
 The diversity of languages in France, in terms of their number and internal variation, is extensive: French, regional Romance or non-Romance languages, overseas languages, immigrant languages, French Sign Language (LSF), etc. Not all of these languages are written, or they are written in a non-standardized manner. The types of linguistic data are highly varied, ranging from audio or video data to diverse and multidomain textual data.
 
-##Partnerships
+## Partnerships
 To cover the broadest possible linguistic spectrum, the project teams are establishing and seeking partnerships with institutions whose scope overlaps with that of COLaF. These partnerships involve, among other things, leveraging the specific expertise of Almanach and Multispeech, such as handwriting recognition, creating interfaces for corpora, and training language or automatic translation models.
