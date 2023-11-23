@@ -36,4 +36,4 @@ The three major objectives of COLaF are as follows:
 - Protect and enhance the linguistic richness of the territory by developing tools for regional languages and overseas languages.
 
 
-For more information on linguistic coverage and partnerships, visit [here](https://colaf.huma-num.fr/en/projet).
+For more information on linguistic coverage and partnerships, visit [here](https://colaf.huma-num.fr/projet).
