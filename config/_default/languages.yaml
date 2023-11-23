@@ -3,20 +3,32 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+fr:
+  languageCode: fr
+  contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+en:
+  languageCode: en
+  contentDir: content/en
+  title: COLaF 
+  params:
+    description: The COLaF project
+  menu:
+    main:
+      - name: About
+        url: '#about'
+        weight: 1
+      - name: Funding
+        url: '#funding'
+        weight: 20
+      - name: Partners
+        url: '#partners'
+        weight: 30
+      - name: Team
+        url: '#team'
+        weight: 40
+      - name: Contact
+        url: '#contact'
+        weight: 50
+    
