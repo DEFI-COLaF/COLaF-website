@@ -13,7 +13,7 @@ bio: Corpus et Outils pour les Langues de France
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-À travers le projet COLaF (Corpus et Outils pour les Langues de France), [Inria](https://www.inria.fr/fr) a pour objectif de contribuer au développement de corpus et d’outils libres pour le français et les autres langues de France, en étroite collaboration avec des [partenaires](#partners) académiques et institutionnels. 
+À travers le projet **COLaF** (Corpus et Outils pour les Langues de France), [Inria](https://www.inria.fr/fr) a pour objectif de contribuer au **développement de corpus et d’outils libres** pour le **français** et les autres **langues de France**, en étroite collaboration avec des [partenaires](#partners) académiques et institutionnels. 
 
 Le périmètre de COLaF inclut à la fois :
 - les **données textuelles** ([ALMAnaCH](https://almanach.inria.fr/index-fr.html), Centre Inria de Paris),
