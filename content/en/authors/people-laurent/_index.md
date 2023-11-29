@@ -21,5 +21,5 @@ bio: Membre associé d'Almanach - Direction de la Culture et de l'Information Sc
 highlight_name: true
 
 user_groups:
-- Almanach
+- ALMAnaCH
 ---

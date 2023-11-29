@@ -21,5 +21,5 @@ bio: Maître de conférence Sorbonne Université
 highlight_name: true
 
 user_groups:
-- Almanach
+- ALMAnaCH
 ---

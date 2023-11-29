@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Almanach
+title: ALMAnaCH
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Inria Partner Project Team
+role: Text data
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -13,7 +13,7 @@ sections:
   - block: people
     id: funding
     content:
-      title: Financeurs
+      title: Equipe centrale
       user_groups:
           - funding
     design:
@@ -23,7 +23,7 @@ sections:
   - block: people
     id: partners
     content:
-      title: Partenaires externes
+      title: Institutions et laboratoires partenaires
       user_groups:
           - partners
     design:
@@ -33,9 +33,9 @@ sections:
   - block: people
     id: team
     content:
-      title: Equipe
+      title: Membres
       user_groups:
-          - Almanach
+          - ALMAnaCH
           - Multispeech
     design:
       show_interests: false

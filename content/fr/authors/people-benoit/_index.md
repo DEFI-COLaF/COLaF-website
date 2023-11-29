@@ -21,5 +21,5 @@ bio: Inria Senior Researcher en Natural Language Processing
 highlight_name: true
 
 user_groups:
-- Almanach
+- ALMAnaCH
 ---

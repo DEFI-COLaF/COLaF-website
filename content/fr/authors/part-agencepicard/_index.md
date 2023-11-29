@@ -6,7 +6,7 @@ title: Agence régionale de la Langue Picarde
 superuser: false
 
 # Role/position/tagline
-role: Partenaire
+role: Picard
 
 # Organizations/Affiliations to show in About widget
 #organizations:

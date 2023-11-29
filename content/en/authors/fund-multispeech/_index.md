@@ -6,7 +6,7 @@ title: Multispeech
 superuser: false
 
 # Role/position/tagline
-role: Inria Partner Project Team
+role: Speech and Sign Language Data
 
 # Organizations/Affiliations to show in About widget
 organizations:

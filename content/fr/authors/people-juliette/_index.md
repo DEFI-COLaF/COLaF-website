@@ -21,5 +21,5 @@ bio: Récupération, encodage, maintenance et publication des données textuels 
 highlight_name: true
 
 user_groups:
-- Almanach
+- ALMAnaCH
 ---

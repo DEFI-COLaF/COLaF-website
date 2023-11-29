@@ -21,5 +21,5 @@ bio: Corpus, relations et gestion de projet
 highlight_name: true
 
 user_groups:
-- Almanach
+- ALMAnaCH
 ---

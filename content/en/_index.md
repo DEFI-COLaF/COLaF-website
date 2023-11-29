@@ -13,7 +13,7 @@ sections:
   - block: people
     id: funding
     content:
-      title: Funding provided by
+      title: Core Team
       user_groups:
           - funding
     design:
@@ -23,7 +23,7 @@ sections:
   - block: people
     id: partners
     content:
-      title: External Partners
+      title: Partners laboratories and institutions
       user_groups:
           - partners
     design:
@@ -35,7 +35,7 @@ sections:
     content:
       title: The Team
       user_groups:
-          - Almanach
+          - ALMAnaCH
           - Multispeech
     design:
       show_interests: false

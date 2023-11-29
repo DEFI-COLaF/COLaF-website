@@ -6,7 +6,7 @@ title: Multispeech
 superuser: false
 
 # Role/position/tagline
-role: Équipe-projet Inria partenaire
+role: Parole et Langues des signes
 
 # Organizations/Affiliations to show in About widget
 organizations:

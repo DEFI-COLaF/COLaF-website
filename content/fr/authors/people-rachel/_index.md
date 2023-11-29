@@ -21,5 +21,5 @@ bio: PRAIRIE junior chair
 highlight_name: true
 
 user_groups:
-- Almanach
+- ALMAnaCH
 ---

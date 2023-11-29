@@ -21,5 +21,5 @@ bio: Détection de langue sous grandes contraintes de traitement à la seconde
 highlight_name: true
 
 user_groups:
-- Almanach
+- ALMAnaCH
 ---

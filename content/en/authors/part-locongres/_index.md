@@ -6,7 +6,7 @@ title: Lo Congrès
 superuser: false
 
 # Role/position/tagline
-role: Partner
+role: Occitan
 
 # Organizations/Affiliations to show in About widget
 #organizations:
