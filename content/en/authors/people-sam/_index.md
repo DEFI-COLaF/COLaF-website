@@ -1,13 +1,12 @@
 ---
 # Display name
-title: <a href="https://www.inria.fr/fr">ALMAnaCH</a>
-
+title: Sam Bigeard
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position/tagline
-role: Text data
+role: //
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -15,16 +14,12 @@ organizations:
     url: https://www.inria.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Institut nationale de recherche en sciences et en technologies du numérique
+bio: //
 
-social:
-  - icon: globe
-    icon_pack: fas
-    link: https://www.inria.fr/fr/almanach
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-  - funding
-
+- Multispeech
 ---
