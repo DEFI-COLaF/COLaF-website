@@ -1,6 +1,6 @@
 ---
 # Display name
-title: <a href="https://www.inria.fr/fr">ALMAnaCH</a>
+title: ALMAnaCH
 
 
 # Is this the primary user of the site?
