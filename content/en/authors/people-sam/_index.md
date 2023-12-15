@@ -6,7 +6,7 @@ title: Sam Bigeard
 superuser: true
 
 # Role/position/tagline
-role: //
+role: Engineer - Project manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
