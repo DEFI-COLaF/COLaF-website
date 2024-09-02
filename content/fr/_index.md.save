@@ -45,29 +45,13 @@ sections:
     id: results
     content:
       title: Résultats
-      filters:
-        folders:
-          - result
-    design:
-      view: 2
-      columns: 1
-  - block: collection
-    id: publications
-    content: 
-      title: Publications
-      filters:
-        folders:
-          - publications
-    design:
-      view: 2
-      columns: 1
-  - block: markdown
+      text: 
+  - block: Contact
     id: contact
     content:
       title: Contact
-      text: |-
-        Pour nous contacter: colaf@inria.fr<br/>
-        Pour s'inscrire sur la liste de diffusion de la communauté COLaF: [ici](https://sympa.inria.fr/sympa/info/colaf-communaute)
-    design:
-      columns: 1
+      email: colaf@inria.fr
+
+
+      
 ---

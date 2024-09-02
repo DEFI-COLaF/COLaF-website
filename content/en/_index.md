@@ -41,12 +41,34 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-  - block: Contact
+  - block: collection
+    id: results
+    content:
+      title: Results
+      filters:
+        folders:
+          - result
+    design:
+      view: 2
+      columns: 1
+  - block: collection
+    id: publications
+    content: 
+      title: Publications
+      filters:
+        folders:
+          - publications
+    design:
+      view: 2
+      columns: 1
+  - block: markdown
     id: contact
     content:
       title: Contact
-      email: colaf@inria.fr
+      text: |-
+        To contact us: colaf@inria.fr<br/>
+        To subscribe to our mailing list: [here](https://sympa.inria.fr/sympa/info/colaf-communaute)
+    design:
+      columns: 1
 
-
-      
 ---

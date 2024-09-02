@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Djamé Seddah
-
+weight: 4
 # Is this the primary user of the site?
 superuser: true
 

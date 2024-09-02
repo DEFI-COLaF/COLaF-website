@@ -47,7 +47,7 @@ footer:
   copyright:
     notice: '© Projet COLaF. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false

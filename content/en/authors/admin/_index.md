@@ -31,4 +31,4 @@ COLaF aims to cover French and the languages of France in all its diversity:
 Activity within the project notably covers the acquisition and structuring of texts from non-textual sources (books, audio recordings, etc.), the classification by language and linguistic variety of large volumes of texts (in close connection with the [OSCAR](https://oscar-project.org/) project), the development of annotation and transformation models (translation, normalisation, voice synthesis, sign language generation) serving the development of corpora and the exploitation of newly created resources.
 
 
-COLaF is an Inria [DEFI](https://www.inria.fr/en/inria-challenges-tackling-major-issues) led by [Benoît Sagot](http://pauillac.inria.fr/~sagot/) (head of the ALMAnaCH project team) and [Slim Ouni](https://members.loria.fr/SOuni/) (member of the MULTISPEECH project team).
+COLaF is an Inria [DEFI](https://www.inria.fr/en/inria-challenges-tackling-major-issues) led by [Benoît Sagot](http://pauillac.inria.fr/~sagot/) (head of the ALMAnaCH project team) and [Slim Ouni](https://members.loria.fr/SOuni/) (head of the MULTISPEECH project team).
