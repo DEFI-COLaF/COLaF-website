@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Oriane Nédey
-
+weight: 6
 # Is this the primary user of the site?
 superuser: true
 

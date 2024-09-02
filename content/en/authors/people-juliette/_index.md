@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Juliette Janès
-
+weight: 7
 # Is this the primary user of the site?
 superuser: true
 

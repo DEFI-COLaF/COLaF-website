@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Benoît Sagot
-
+weight: 1
 # Is this the primary user of the site?
 superuser: true
 

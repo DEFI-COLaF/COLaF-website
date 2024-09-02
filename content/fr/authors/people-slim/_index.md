@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Slim Ouni
-
+weight: 1
 # Is this the primary user of the site?
 superuser: true
 

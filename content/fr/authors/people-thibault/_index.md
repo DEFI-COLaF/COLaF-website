@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Thibault Clérice
-
+weight: 2
 # Is this the primary user of the site?
 superuser: true
 

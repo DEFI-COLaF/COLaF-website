@@ -1,12 +1,13 @@
 ---
 # Display name
 title: Thibault Clérice
+weight: 2
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Starting Faculty Position
+role: Starting Faculty Position -Project manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
