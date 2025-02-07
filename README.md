@@ -16,7 +16,7 @@ The COLaF website serves as a hub for research outputs, member information, and 
 | Type of adding                         | Name of new directory         | _index pattern |
 |-------------------------------|-------------------|-------------------|
 | Add Team Member               | `people-nameOfPerson`        | `documentation/people-index.md`|
-| Add Partners laboratories and institutions | `part-nameofPartner |`documentation/part-index.md`|
+| Add Partners laboratories and institutions | `part-nameofPartner` |`documentation/part-index.md`|
 | Add Results - new Data/corpus produced |`data-nameofCorpus`|`documentation/result-index.md`|
 | Add Results - new tools created | `outil-nameofTool`|`documentation/result-index.md`| 
 | Add Results - Work in Progress | `wip-nameofWIP`|`documentation/result-index.md`|
