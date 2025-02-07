@@ -6,7 +6,7 @@ title: Laurent Romary
 superuser: true
 
 # Role/position/tagline
-role: Directeur de Recherches
+role: Directeur de Recherche
 
 # Organizations/Affiliations to show in About widget
 organizations:

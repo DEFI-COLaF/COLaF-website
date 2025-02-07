@@ -17,14 +17,17 @@ main:
     url: '#team'
     weight: 40
   - name: Résultats
-    url: '#results'
+    url: 'results'
     weight: 50
   - name: Publications
-    url: '#publications'
+    url: 'publications'
     weight: 60
-  - name: Bibliographie
-    url: 'https://colaf.huma-num.fr/bibliography/'
+  - name: Sources bibliographiques
+    url: 'bibliography'
     weight: 70
+  - name: Ressources identifiées
+    url: 'https://colaf.huma-num.fr/fr/Ressources.html'
+    weight: 75
   - name: Contact
     url: '#contact'
     weight: 80

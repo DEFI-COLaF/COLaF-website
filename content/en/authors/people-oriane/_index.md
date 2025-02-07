@@ -6,7 +6,7 @@ weight: 6
 superuser: true
 
 # Role/position/tagline
-role: Engineer
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:

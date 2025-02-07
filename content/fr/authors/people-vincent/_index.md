@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Vincent Colotte
-
+weight: 5
 # Is this the primary user of the site?
 superuser: true
 

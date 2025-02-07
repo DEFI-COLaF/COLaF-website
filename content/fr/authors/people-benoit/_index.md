@@ -6,7 +6,7 @@ weight: 1
 superuser: true
 
 # Role/position/tagline
-role: Directeur de Recherches - Co-porteur du projet
+role: Directeur de Recherche - Co-porteur du projet
 
 # Organizations/Affiliations to show in About widget
 organizations:

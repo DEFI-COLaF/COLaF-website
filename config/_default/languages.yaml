@@ -7,7 +7,7 @@ fr:
   languageCode: fr
   contentDir: content/fr
 
-# Uncomment the lines below to configure your website in a second language.
+#  Uncomment the lines below to configure your website in a second language.
 en:
   languageCode: en
   contentDir: content/en
@@ -29,14 +29,11 @@ en:
         url: '#team'
         weight: 40
       - name: Results
-        url: '#results'
+        url: 'results'
         weight: 50
       - name: Publications
-        url: '#publications'
+        url: 'publications'
         weight: 60
-      - name: Bibliography
-        url: 'https://colaf.huma-num.fr/bibliography/'
-        weight: 70
       - name: Contact
         url: '#contact'
         weight: 80

@@ -10,7 +10,7 @@ baseURL: 'https://colaf.huma-num.fr' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: fr
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
