@@ -6,8 +6,8 @@ weight: 6
 superuser: true
 
 # Role/position/tagline
-role: Ingénieure
-
+role: Doctorante
+ 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Inria

@@ -37,30 +37,11 @@ sections:
       user_groups:
           - ALMAnaCH
           - Multispeech
+          - Autres
     design:
       show_interests: false
       show_role: true
       show_social: true
-  - block: collection
-    id: results
-    content:
-      title: Résultats
-      filters:
-        folders:
-          - result
-    design:
-      view: 2
-      columns: 1
-  - block: collection
-    id: publications
-    content: 
-      title: Publications
-      filters:
-        folders:
-          - publications
-    design:
-      view: 2
-      columns: 1
   - block: markdown
     id: contact
     content:

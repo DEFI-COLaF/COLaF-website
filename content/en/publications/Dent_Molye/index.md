@@ -4,6 +4,7 @@ authors:
 - people-rasul
 - people-juliette
 - people-thibault
+- "Pedro Ortiz Suarez"
 - people-benoit
 
 date: 2024-08-08
