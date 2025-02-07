@@ -8,7 +8,7 @@ The COLaF website serves as a hub for research outputs, member information, and 
 1. **Create a New Branch:**
    Always create a separate branch for your changes to ensure a clean version history.
    
-3. **Directory Guidelines:** <br/>
+2. **Directory Guidelines:** <br/>
    To do in both content/en and content/fr with the english version of the text in content/en and the french version of the text in content/fr.
    - **Adding new COLaF team members, partners and results**:<br/>
        - Create a new directory in `authors/` such as:
@@ -24,8 +24,7 @@ The COLaF website serves as a hub for research outputs, member information, and 
        - Add a file _index.md (available in the documentation) in the new folder, and modify it by following the information in the document according to the person being added.
        - Add a profil picture in the directory named `avatar.jpg`
 
-6. **Open a Pull Request:**
-   Create a pull request on the repository to merge your changes.
+3.   Create a pull request on the repository to merge your changes and send a mail to juliette.janes@inria.fr
    
 By following these guidelines, you ensure that the website remains organized and up-to-date. Thank you for contributing to the COLaF website!
 
