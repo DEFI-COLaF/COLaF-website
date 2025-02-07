@@ -24,7 +24,7 @@ The COLaF website serves as a hub for research outputs, member information, and 
        - Add a file _index.md (available in the documentation) in the new folder, and modify it by following the information in the document according to the person being added.
        - Add a profil picture in the directory named `avatar.jpg`
 
-3.   Create a pull request on the repository to merge your changes and send a mail to juliette.janes@inria.fr
+3.   Create a pull request on the repository to merge your changes
    
 By following these guidelines, you ensure that the website remains organized and up-to-date. Thank you for contributing to the COLaF website!
 
