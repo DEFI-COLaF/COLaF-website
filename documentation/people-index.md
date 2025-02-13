@@ -22,5 +22,6 @@ highlight_name: true
 
 user_groups:
 # if Multispeech, keeep, if Almanach, replace by ALMAnaCH, if Other replace by Others (english), Autres (french)
+# if partners, replace by Partners (english) or Partenaires (french)
 - Multispeech
 ---
