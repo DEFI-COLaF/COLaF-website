@@ -6,7 +6,7 @@ weight: 4
 superuser: true
 
 # Role/position/tagline
-role: Maître de Conférence
+role: Chercheur
 
 # Organizations/Affiliations to show in About widget
 organizations:
