@@ -6,7 +6,7 @@ weight: 2.5
 superuser: true
 
 # Role/position/tagline
-role: Starting Research Position
+role: Chercheur
 
 # Organizations/Affiliations to show in About widget
 organizations:
