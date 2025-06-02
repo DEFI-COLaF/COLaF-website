@@ -11,7 +11,7 @@ fr:
 en:
   languageCode: en
   contentDir: content/en
-  title: COLaF 
+  title: COLaF
   params:
     description: The COLaF project
   menu:
@@ -34,6 +34,12 @@ en:
       - name: Publications
         url: 'publications'
         weight: 60
+      - name: Bibliographic sources
+        url: 'https://colaf.huma-num.fr/bibliography'
+        weight: 70
+      - name: Identified ressources
+        url: 'https://colaf.huma-num.fr/fr/Ressources.html'
+        weight: 75
       - name: Contact
         url: '#contact'
         weight: 80
