@@ -1,12 +1,12 @@
 ---
 # Display name
-title: ForumOccitania
+title: 100chansonsdeProvence
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Corpus of Occitan discussions collected from an online forum
+role: Corpus of songs in Provençal Occitan with alignements between spelling conventions and French translations
 
 # Organizations/Affiliations to show in About widget
 organizations:

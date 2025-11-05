@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Forum Occitania
+title: ForumOccitania
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Forum de discussion en langue occitane
+role: Corpus de discussions en occitan issues d'un forum en ligne
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://github.com/DEFI-COLaF/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Le corpus Molyé est une collection diachronique de représentations stéréotypées de la variation de la langue française au cours de la période moderne ainsi que des premières attestations des créoles français.
+bio: ""
 
 
 # Highlight the author in author lists? (true/false)
