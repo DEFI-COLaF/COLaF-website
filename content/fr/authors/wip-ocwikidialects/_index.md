@@ -1,12 +1,12 @@
 ---
 # Display name
-title: ForumOccitania
+title: OcWikiDialects
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: Corpus of Occitan discussions collected from an online forum
+role: Corpus d'articles Wikipedia étiquetés en variétés d'occitan
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,6 +21,6 @@ bio: ""
 highlight_name: true
 
 user_groups:
-  - Works in progress
+  - Travaux en cours
 
 ---
