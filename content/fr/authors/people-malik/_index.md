@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Laurent Romary
-
+title: Malik Marmonier
+weight: 8
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Senior Researcher
+role: Ingénieur
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.inria.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Membre associé d'Almanach - Direction de la Culture et de l'Information Scientifique
+bio: Franco-Provençal, Création de corpus, Traduction automatique pour langues peu dotées
 
 
 # Highlight the author in author lists? (true/false)

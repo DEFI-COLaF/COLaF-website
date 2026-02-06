@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Djamé Seddah
-weight: 4
+title: Malik Marmonier
+weight: 8
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
     url: https://www.inria.fr/fr
 
 # Short bio (displayed in user profile at end of posts)
-bio: Maître de conférence Sorbonne Université
+bio: Franco-Provençal, Corpus creation, Machine Translation for low-resource languages
 
 
 # Highlight the author in author lists? (true/false)
