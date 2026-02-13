@@ -22,10 +22,10 @@ featured: true
 
 links:
 - name: Hal
-  url: https://hal.science/hal-04787239
-url_pdf: https://hal.science/hal-04787239/document
+  url: https://inria.hal.science/hal-05201974v1
+url_pdf: https://hal.science/hal-05201974v1/document
 
 - name: ACM
-	url : https://dl.acm.org/doi/10.1145/3742886.3756728
-url_pdf:  https://dl.acm.org/doi/pdf/10.1145/3742886.3756728
+	url : https://doi.org/10.1145/3742886.3756728
+url_pdf:  https://doi.org/10.1145/3742886.3756728
 ---
