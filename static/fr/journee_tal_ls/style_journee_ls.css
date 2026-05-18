@@ -55,7 +55,7 @@ main {
     margin: 0 auto;
 }
 
-p, ul {
+p, ul, dl, h4 {
     background-color: var(--card-background);
     padding-left: 3rem;
     padding-right: 3rem;
@@ -69,6 +69,11 @@ p, ul {
     margin-right:auto;
 }
 
+h4{
+	text-align:center;
+	font-size:1.2em;
+}
+
 footer p {
 	background:none;
 }
@@ -77,11 +82,19 @@ ul{
    padding-left:6em;
 }
 
+dt{
+	margin-top:20px;
+}
+dd{
+	margin-left:50px;
+}
+
 h2 {
     text-align:center;
     font-size: 2rem;
     margin-top: 3rem;
 }
+
 
 .steps {
     display: flex;
@@ -250,4 +263,8 @@ summary {
 .logos-container img:hover {
     filter: grayscale(0%);
     opacity: 1;
+}
+
+li{
+	margin-bottom:10px;
 }
